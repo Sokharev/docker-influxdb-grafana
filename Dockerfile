@@ -1,4 +1,4 @@
-FROM debian:stretch-slim
+FROM ubuntu:18.04
 LABEL maintainer="Phil Hawthorne <me@philhawthorne.com>"
 
 ENV DEBIAN_FRONTEND noninteractive
